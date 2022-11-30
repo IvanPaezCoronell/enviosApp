@@ -1,0 +1,36 @@
+.navBg {
+    background-color: rgb(255, 255, 255);
+}
+
+#img-nav {
+    height: 50px;
+}
+
+#basic-navbar-nav {
+    font-size: 1.1rem;
+    align-items: flex-end;
+    padding-left: 1%;
+}
+
+.container {
+    margin: 0% !important;
+    max-width: 1380px !important;
+    min-width: 0px !important;
+}
+
+#div-nav {
+    margin-right: 5%;
+}
+
+
+#id-form-nav {
+    margin-left: 7%;
+}
+
+.nav-link{
+    color: rgb(61, 61, 61) !important;
+}
+
+.nav-link:hover{
+    color: rgb(248, 0, 0) !important;
+}

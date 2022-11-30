@@ -1,0 +1,46 @@
+.div-section-01 {
+  background-color: #f0f0f0;
+  padding: 50px;
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.4);
+  padding-top: 1%;
+}
+
+span {
+  color: rgba(0, 87, 248, 0.658);
+}
+
+.div-img {
+  padding-top: 3%;
+  padding-left: 10%;
+  display: inline-flex;
+  float: left;
+}
+
+#img-home {
+  width: 30%;
+  float: left;
+}
+
+.div-p {
+  padding-top: 3%;
+  padding-left: 3%;
+  float: right;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.p-sub{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+
