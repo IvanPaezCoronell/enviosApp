@@ -1,6 +1,6 @@
 
 .div-footer{
-    margin-top: 34%;
+    margin-top: 15% !important;
     padding-bottom: 2%;
     background-color: rgba(248, 248, 248, 0.945);
 }
@@ -52,5 +52,5 @@ footer{
 .div-footer-text{
     display: flex;
     justify-content: center;
-    margin-top: 38%;
+    margin-top: 30%;
 }
